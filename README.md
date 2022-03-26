@@ -35,8 +35,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br /><br /><br />
-
+<br /><br />
 [website]: https://bit.ly/adder_neo
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/adder_neo
@@ -44,9 +43,11 @@
 [instagram]: https://instagram.com/adder.neo
 [linkedin]: https://www.linkedin.com/in/adderneo/
 
-<br />
+<br /><br />
 
 <a href="https://app.daily.dev/adderneo"><img src="https://api.daily.dev/devcards/503792fac39543c8ac1fc204f53922ce.png?r=egt" width="400" alt="Abhishek Srivastava's Dev Card"/></a>
+
+<br />
 
 <summary>:zap: GitHub Stats</summary>
 
