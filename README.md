@@ -50,7 +50,5 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Adder's GitHub Stats" src="https://github-readme-stats.adderneo.vercel.app/api?username=adderneo&show_icons=true&hide_border=true" />
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adderneo)](https://github.com/adderneo/github-readme-stats)
 </details>
