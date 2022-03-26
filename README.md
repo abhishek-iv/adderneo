@@ -48,7 +48,5 @@
 
 <a href="https://app.daily.dev/adderneo"><img src="https://api.daily.dev/devcards/503792fac39543c8ac1fc204f53922ce.png?r=egt" width="400" alt="Abhishek Srivastava's Dev Card"/></a>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=adderneo)](https://github.com/adderneo/github-readme-stats)
-</details>
+<summary>:zap: GitHub Stats</summary>
+[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=adderneo)]
