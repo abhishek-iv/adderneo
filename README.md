@@ -37,13 +37,15 @@
 
 <br /><br />
 
+<details>
 [website]: https://bit.ly/adder_neo
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/adder_neo
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/adder.neo
 [linkedin]: https://www.linkedin.com/in/adderneo/
-
+</details>
+  
 <br /><br />
 
 <a href="https://app.daily.dev/adderneo"><img src="https://api.daily.dev/devcards/503792fac39543c8ac1fc204f53922ce.png?r=egt" width="400" alt="Abhishek Srivastava's Dev Card"/></a>
