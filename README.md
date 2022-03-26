@@ -51,6 +51,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Adder's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=adderneo&show_icons=true&hide_border=true" />
+  <img align="left" alt="Adder's GitHub Stats" src="https://github-readme-stats.adderneo.vercel.app/api?username=adderneo&show_icons=true&hide_border=true" />
 
 </details>
