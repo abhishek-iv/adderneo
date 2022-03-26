@@ -39,17 +39,17 @@
 
 [website]: https://bit.ly/adder_neo
 [twitter]: https://twitter.com/adder_neo
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://youtube.com/
 [instagram]: https://instagram.com/adder.neo
 [linkedin]: https://www.linkedin.com/in/adderneo/
 
 <br />
 
-<a href="https://app.daily.dev/adderneo"><img src="https://api.daily.dev/devcards/503792fac39543c8ac1fc204f53922ce.png?r=egt" width="400" alt="Abhishek Srivastava's Dev Card"/></a>
+<a href="https://app.daily.dev/abhishek-iv"><img src="https://api.daily.dev/devcards/503792fac39543c8ac1fc204f53922ce.png?r=egt" width="400" alt="Abhishek Srivastava's Dev Card"/></a>
 
 <br />
 
 <summary>:zap: GitHub Stats</summary>
 
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=adderneo)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-iv)
