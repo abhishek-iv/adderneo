@@ -1,7 +1,7 @@
 ### Hi there, I'm Abhishek Srivastava - aka [Adder] 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/adder_neo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadder_neo&screen_name=adder_neo target="_blank")
-[![Website](https://bit.ly/adder_neo)](https://bit.ly/adder_neo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/adder_neo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fadder_neo&screen_name=adder_neo)
+[![Website](![GitHub followers](https://img.shields.io/github/followers/adderneo?style=social)](https://bit.ly/adder_neo)
 
 ## Helping people master JavaScript & transit from Web2 to Web3👨‍💻 Full Stack Software developer
 
