@@ -50,5 +50,5 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adderneo)](https://github.com/adderneo/github-readme-stats)
+  [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=adderneo)](https://github.com/adderneo/github-readme-stats)
 </details>
